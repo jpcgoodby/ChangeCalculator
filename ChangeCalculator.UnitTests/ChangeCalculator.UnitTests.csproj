@@ -24,7 +24,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ChangeCalculator.Domain\ChangeCalculator.Domain.csproj" />
-    <ProjectReference Include="..\ChangeCalculator\ChangeCalculator.Service.csproj" />
+    <ProjectReference Include="..\ChangeCalculator.Service\ChangeCalculator.Service.csproj" />
   </ItemGroup>
 
 </Project>

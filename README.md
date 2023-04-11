@@ -21,5 +21,6 @@ In order to run the application
 1. Alter launchSettings.json
 2. Add parameters e.g "commandLineArgs": "sterling 178.90 200.00" currency productPrice PaymentAmount
 3. Only handles sterling or dollar
+4. Run from command line at ChangeCalculator.Service root directory dotnet run sterling 178.90 200.00 etc
 
 
