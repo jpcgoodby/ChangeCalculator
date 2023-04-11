@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ChangeCalculator": {
+      "commandName": "Project",
+      "commandLineArgs": "sterling 178.90 200.00"
+    }
+  }
+}
